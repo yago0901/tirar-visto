@@ -10,7 +10,7 @@ function Destinations() {
 
         <div className="flex flex-col md:flex-row items-start md:items-center w-full gap-4 md:gap-0 md:justify-between">
           <h1 className="text-4xl md:text-6xl font-semibold leading-tight md:leading-[130.8%] md:w-[35%]">
-            Sua tranquilidade<br className="hidden md:block" />
+            Sua tranquilidade <br />
             não tem preço!
           </h1>
           <p className="text-gray-500 text-base md:text-2xl leading-relaxed md:leading-[130.8%] md:w-[60%]">
