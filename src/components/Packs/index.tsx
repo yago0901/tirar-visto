@@ -14,7 +14,6 @@ function Packs() {
         </h2>
 
         <div className="flex flex-col lg:flex-row justify-center gap-8 w-full mx-auto">
-          {/* Pacote 1 */}
           <div className="w-full bg-white rounded-2xl p-6 sm:p-8 shadow-lg hover:transform hover:-translate-y-2 transition-transform overflow-hidden border-2 border-solid border-gray-300">
             <div className="h-64 sm:h-80 bg-gray-200 rounded-xl mb-6 flex items-center justify-center">
               <img
@@ -52,7 +51,6 @@ function Packs() {
             </div>
           </div>
 
-          {/* Pacote 2 */}
           <div className="w-full bg-white rounded-2xl p-6 sm:p-8 shadow-lg hover:transform hover:-translate-y-2 transition-transform overflow-hidden border-2 border-solid border-[#E5E5E5]">
             <div className="h-64 sm:h-80 bg-gray-200 rounded-xl mb-6 flex items-center justify-center">
               <img
@@ -90,7 +88,6 @@ function Packs() {
             </div>
           </div>
 
-          {/* Pacote 3 */}
           <div className="w-full bg-white rounded-2xl p-6 sm:p-8 shadow-lg hover:transform hover:-translate-y-2 transition-transform overflow-hidden border-2 border-solid border-[#E5E5E5]">
             <div className="h-64 sm:h-80 bg-gray-200 rounded-xl mb-6 flex items-center justify-center">
               <img
