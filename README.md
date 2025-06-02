@@ -1,46 +1,66 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Landing Page – Teste Técnico Noweb 🚀
 
-## Available Scripts
+Este repositório contém a landing page desenvolvida como parte do teste técnico solicitado pela equipe da Noweb. A página foi construída com foco em **fidelidade ao layout enviado via Figma**, **boas práticas**, **organização**, **responsividade** e **manutenibilidade**.
 
-In the project directory, you can run:
+## 🛠️ Tecnologias Utilizadas
 
-### `npm start`
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Figma](https://www.figma.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📦 Como rodar o projeto localmente
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Clone o repositório:
 
-### `npm test`
+```bash
+git clone https://github.com/seu-usuario/nome-do-repositorio.git
+cd nome-do-repositorio
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Instale as dependências:
 
-### `npm run build`
+```bash
+npm install
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Inicie o projeto:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+npm start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+A aplicação estará disponível em: [http://localhost:3000](http://localhost:3000)
 
-### `npm run eject`
+## 📋 Funcionalidades
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Layout responsivo
+- Compatível com os principais navegadores
+- Fidelidade visual ao design original
+- Código limpo e bem estruturado
+- Componentização para facilitar manutenção
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🧱 Estrutura de Pastas (exemplo)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+```bash
+src/
+├── assets/
+├── components/
+├── App.css
+├── App.tsx
+├── index.css
+└── index.tsx
+```
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 📐 Layout
 
-## Learn More
+O layout utilizado como base foi disponibilizado via Figma pela equipe da Noweb. O objetivo foi atingir o máximo de fidelidade visual em relação ao design proposto.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📱 Responsividade
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A aplicação foi desenvolvida com abordagem mobile-first, garantindo uma boa experiência tanto em dispositivos móveis quanto em desktops.
+
+## 📄 Licença
+
+Este projeto é de uso exclusivo para avaliação técnica e não deve ser utilizado comercialmente.
